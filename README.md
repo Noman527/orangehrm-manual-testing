@@ -1,15 +1,27 @@
-# OrangeHRM Manual Testing Project
+🧪 OrangeHRM Manual Testing Project
 
-This project contains structured manual test cases for the OrangeHRM application. It demonstrates key software testing skills including test planning, requirement analysis, test case creation, severity classification, and defect reporting.
+This repository contains structured manual test cases for the OrangeHRM web application. It showcases key software testing skills such as test planning, requirement analysis, test case design, severity classification, and defect reporting.
+📌 Project Highlights
 
-## 📌 Project Highlights
-- Modules Covered: Login, PIM, My Info, Leave, Recruitment
-- Well-structured test cases with status, severity, and comments
-- Test documentation managed in Google Sheets
+    ✅ Modules Covered: Login, PIM, My Info, Leave, Recruitment
 
-## 🔗 Test Case Sheet
-[📄 Manual Test Cases Google Sheet](https://docs.google.com/spreadsheets/d/1O1O87avkgSs3ZdvtcamMpCF6IsE4bQhasF79_kQpouo/edit?usp=sharing)
+    ✅ Test Cases include: Test steps, Expected vs Actual Results, Status, Severity, and Comments
 
-## 🛠️ Tools Used
-- Google Sheets
-- GitHub
+    ✅ Test documentation managed using Google Sheets
+
+🔗 Test Case Sheet
+
+📄 Manual Test Cases (Google Sheet)
+🛠️ Tools Used
+
+    Google Sheets
+
+    GitHub
+
+Let me know if you also want to add:
+
+    📁 Links to your uploaded PDFs (Test Plan, Bug Report, etc.)
+
+    📂 Folder structure
+
+    👨‍💼 About Me section
